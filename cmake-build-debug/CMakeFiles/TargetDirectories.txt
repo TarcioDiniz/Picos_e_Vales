@@ -1,0 +1,3 @@
+C:/Users/Tarcio Diniz/Documents/LinguagemC/Picos_e_Vales/cmake-build-debug/CMakeFiles/Picos_e_Vales.dir
+C:/Users/Tarcio Diniz/Documents/LinguagemC/Picos_e_Vales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tarcio Diniz/Documents/LinguagemC/Picos_e_Vales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
